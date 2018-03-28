@@ -1,0 +1,16 @@
+import SueldoPePe.*
+
+// auto-generated at 26/03/2018 19:02:01
+test "exported test from REPL session" {
+	
+	method.equals bono_resultado.fijo()
+	presentismo.cantidad(0)
+	presentismo.faltas(0)
+	categoria.gerente()
+	pepe.sueldo()
+	bono_resultado.porcentaje()
+	pepe.sueldo()
+	categoria.cadete()
+	pepe.sueldo()
+	
+}
